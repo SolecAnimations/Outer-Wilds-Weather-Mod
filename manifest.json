@@ -3,7 +3,7 @@
   "filename": "NewHorizonsConfig.dll",
   "author": "Solec",
   "name": "Weather Mod",
-  "uniqueName": "Solec_WeathMod",
+  "uniqueName": "Solec.WeathMod",
   "version": "1.0.0",
   "owmlVersion": "2.15.1",
   "dependencies": [ "xen.NewHorizons" ]

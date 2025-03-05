@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearthWeather2",
+	"starSystem": "SolarSystem",
+	"Base": {
+		"surfaceGravity": 0,
+		"surfaceSize": 1,
+		"hasMapMarker": true,
+		"groundSize": 1,
+		"ambientLight": 0.3
+	},
+	"Orbit": {
+		"semiMajorAxis": 200,
+		"inclination": 0,
+		"primaryBody": "Timber Hearth",
+		"isMoon": false,
+		"siderealPeriod": 1.75
+	},
+	"Atmosphere": {
+		"size": 140,
+		"fogSize": 140,
+		"useAtmosphereShader": false,
+		"hasOxygen": true,
+		"hasTrees": true,
+		"hasRain": true,
+		"atmosphereTint": {
+			"r": 100,
+			"g": 100,
+			"b": 100,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 100,
+			"g": 100,
+			"b": 100,
+			"a": 255
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Dark Bramble",
+	"Atmosphere": {
+		"size": 1540,
+		"fogSize": 1540,
+		"useAtmosphereShader": true,
+		"hasSnow": true,
+		"atmosphereTint": {
+			"r": 216,
+			"g": 232,
+			"b": 230,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 216,
+			"g": 232,
+			"b": 230,
+			"a": 255
+		}
+	}
+}

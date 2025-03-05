@@ -1,0 +1,65 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Ash Twin",
+	"Atmosphere": {
+		"clouds": {
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/ash_c.png",
+			"innerCloudRadius": 0,
+			"outerCloudRadius": 180,
+			"rotationSpeed": -3.8
+		}
+		},
+		"Props": {
+			"tornados": [
+				{
+					"type": "upwards",
+					"elevation": 150,
+					"fluidType": "sand",
+					"height": 50,
+					"tint": {
+						"r": 191,
+						"g": 185,
+						"b": 145,
+						"a": 255
+					}
+				},
+				{
+					"type": "upwards",
+					"elevation": 150,
+					"fluidType": "sand",
+					"height": 50,
+					"tint": {
+						"r": 191,
+						"g": 185,
+						"b": 145,
+						"a": 255
+					}
+				},
+				{
+					"type": "upwards",
+					"elevation": 150,
+					"fluidType": "sand",
+					"height": 50,
+					"tint": {
+						"r": 191,
+						"g": 185,
+						"b": 145,
+						"a": 255
+					}
+				},
+				{
+					"type": "upwards",
+					"elevation": 150,
+					"fluidType": "sand",
+					"height": 50,
+					"tint": {
+						"r": 191,
+						"g": 185,
+						"b": 145,
+						"a": 255
+					}
+				}
+			]
+		}
+	}

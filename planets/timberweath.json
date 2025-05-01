@@ -4,14 +4,15 @@
 	"starSystem": "SolarSystem",
 	"Base": {
 		"surfaceGravity": 0,
-		"surfaceSize": 1,
-		"hasMapMarker": true,
+		"surfaceSize": 0.1,
+		"hasMapMarker": false,
 		"groundSize": 1,
 		"ambientLight": 0.3
 	},
 	"Orbit": {
 		"semiMajorAxis": 220,
 		"inclination": 0,
+		"showOrbitLine": false,
 		"primaryBody": "Timber Hearth",
 		"isMoon": false,
 		"siderealPeriod": 1.75

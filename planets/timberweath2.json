@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "TimberHearthWeather2",
 	"starSystem": "SolarSystem",
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 0,
 		"surfaceSize": 0.1,
 		"hasMapMarker": false,
-		"groundSize": 1,
 		"ambientLight": 0.3
 	},
 	"Orbit": {

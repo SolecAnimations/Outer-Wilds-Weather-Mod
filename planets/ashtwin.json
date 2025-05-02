@@ -16,7 +16,7 @@
 					"type": "upwards",
 					"elevation": 150,
 					"fluidType": "sand",
-					"height": 50,
+					"height": 30,
 					"tint": {
 						"r": 191,
 						"g": 185,
@@ -28,7 +28,7 @@
 					"type": "upwards",
 					"elevation": 150,
 					"fluidType": "sand",
-					"height": 50,
+					"height": 30,
 					"tint": {
 						"r": 191,
 						"g": 185,
@@ -40,7 +40,7 @@
 					"type": "upwards",
 					"elevation": 150,
 					"fluidType": "sand",
-					"height": 50,
+					"height": 30,
 					"tint": {
 						"r": 191,
 						"g": 185,
@@ -52,7 +52,7 @@
 					"type": "upwards",
 					"elevation": 150,
 					"fluidType": "sand",
-					"height": 50,
+					"height": 30,
 					"tint": {
 						"r": 191,
 						"g": 185,

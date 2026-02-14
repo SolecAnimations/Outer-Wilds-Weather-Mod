@@ -1,9 +1,28 @@
 {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Timber Hearth",
+	"Props": {
+		"details": [
+				{
+		"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+"position": {"x": 0, "y": 158.9906, "z": 0},
+"rotation": {"x": 0, "y": 0, "z": 0},
+				"keepLoaded": true,
+				"stretch": { "x": 200, "y": 9.3636, "z": 200}
+			},
+							{
+		"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+"position": {"x": 0, "y": -158.9906, "z": 0},
+"rotation": {"x": 0, "y": 0, "z": 180},
+				"keepLoaded": true,
+				"stretch": { "x": 200, "y": 9.3636, "z": 200}
+			}
+		]
+	},
 	"Atmosphere": {
 		"clouds": {
 			"cloudsPrefab": "transparent",
+			"capPath": "planets/assets/arouratimber.png",
 			"texturePath": "planets/assets/timber_c.png",
 			"innerCloudRadius": 0,
 			"outerCloudRadius": 270,

@@ -1,6 +1,24 @@
 {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Brittle Hollow",
+		"Props": {
+		"details": [
+				{
+		"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+"position": {"x": 0, "y": 197.1447, "z": 0},
+"rotation": {"x": 0, "y": 0, "z": 0},
+				"keepLoaded": true,
+				"stretch": { "x": 453.899, "y": 9.3636, "z": 453.899}
+			},
+							{
+		"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam",
+"position": {"x": 0, "y": -197.1447, "z": 0},
+"rotation": {"x": 0, "y": 0, "z": 180},
+				"keepLoaded": true,
+				"stretch": { "x": 453.899, "y": 9.3636, "z": 453.899}
+			}
+		]
+	},
 	"Atmosphere": {
 		"clouds": {
 			"cloudsPrefab": "transparent",

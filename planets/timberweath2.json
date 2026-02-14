@@ -14,7 +14,7 @@
 		"inclination": 0,
 		"showOrbitLine": false,
 		"primaryBody": "Timber Hearth",
-		"hasMapMarker": true,
+		"hasMapMarker": false,
 		"isMoon": false,
 		"siderealPeriod": 1.75
 	},
